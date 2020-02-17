@@ -25,7 +25,7 @@
     <input type="text" name="cnpj" class="form-control mb-4" placeholder="CNPJ">
 
 
-    <button class="btn btn-info btn-block" type="submit">Cadastrar</button>
+    <button class="btn btn-primary btn-block" type="submit">Cadastrar</button>
 
 
 </form>

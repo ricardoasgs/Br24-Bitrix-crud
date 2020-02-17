@@ -30,7 +30,7 @@
         value=<?php echo $Empresa->getCnpj(); ?>>
 
     <input type="hidden" name="id" value="<?php echo $Empresa->getId();?>">
-    <button class="btn btn-info btn-block" type="submit">Cadastrar</button>
+    <button class="btn btn-primary btn-block" type="submit">Cadastrar</button>
 
 
 </form>
